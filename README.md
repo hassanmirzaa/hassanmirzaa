@@ -42,6 +42,7 @@ Flutter · Firebase · REST APIs · AI integrations · Offline-first architectur
 
 ## Let's talk
 
-📧 your@email.com
-💼 linkedin.com/in/yourhandle
-🌍 yourportfolio.com
+📧 hassanmirza0801@gmail.com
+💼 www.linkedin.com/in/hassan-mirza-
+🌍 hassanmirzaa.com
+
