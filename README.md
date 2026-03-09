@@ -1,70 +1,60 @@
 <h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">🚀 Flutter Developer | Mobile App Engineer | AI Enthusiast</h3>
+<h3 align="center">Flutter Developer • Problem Solver • Builder</h3>
 
 <p align="center">
-Building modern mobile apps and experimenting with AI-powered solutions.
+I build mobile applications that solve real problems.<br>
+I believe great software comes from clear thinking, clean code, and strong ownership.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-* 📱 Flutter Developer with experience building **production mobile apps**
-* 🤖 Interested in **AI-powered applications**
-* 🔥 Love building **clean, scalable and modern apps**
-* 🚀 Working with **Flutter, Firebase, APIs, and AI tools**
-* 🌱 Currently learning more about **SaaS products & AI integrations**
-
----
-
-## 🛠️ Tech Stack
-
-### Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-### Backend & Cloud
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+* I don't just write code — **I think about the problem first**.
+* I treat every project like **it’s my own product**, not just a task.
+* I focus on **clean architecture, performance, and real user value**.
+* I use **AI as a tool to multiply my productivity**, not as a replacement for thinking.
+* I enjoy turning **ideas into working products**.
 
 ---
 
-## 🚀 Projects
+## ⚡ My Mindset
 
-* 📖 **Quran Audio Player App**
-* 🤖 **AI Workout Planner**
-* 🐦 **Bird Detection AI App**
-* 🎵 **Music Player App with Firebase**
-* 📱 Multiple production Flutter apps
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
-</p>
+* Build things that **actually work in the real world**
+* **Own the outcome**, not just the code
+* Use **AI, automation, and smart tools** to move faster
+* Always **improve systems instead of repeating work**
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech I Work With
 
-* 💼 LinkedIn: YOUR_LINKEDIN
-* 🌍 Portfolio: YOUR_PORTFOLIO
-* 📧 Email: YOUR_EMAIL
+**Mobile**
+
+* Flutter
+* Dart
+
+**Backend & Cloud**
+
+* Firebase
+* REST APIs
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Xcode / Android Studio
 
 ---
 
-⭐ Always building, always learning.
+## 🚀 What I'm Building
+
+* AI-powered mobile applications
+* Productivity tools
+* Scalable Flutter apps
+* Products that combine **AI + real user needs**
+
+---
+
+⭐ I believe developers who can **think, build, and ship products** will always stand out.
