@@ -1,60 +1,47 @@
-<h1 align="center">Hi 👋, I'm Hassan</h1>
-<h3 align="center">Flutter Developer • Problem Solver • Builder</h3>
+# Hassan Mirza
 
-<p align="center">
-I build mobile applications that solve real problems.<br>
-I believe great software comes from clear thinking, clean code, and strong ownership.
-</p>
+Flutter developer based in Karachi, Pakistan.
+I build apps that actually ship, get used, and solve real problems.
 
----
-
-## 🧠 About Me
-
-* I don't just write code — **I think about the problem first**.
-* I treat every project like **it’s my own product**, not just a task.
-* I focus on **clean architecture, performance, and real user value**.
-* I use **AI as a tool to multiply my productivity**, not as a replacement for thinking.
-* I enjoy turning **ideas into working products**.
+Not just a coder — I think through the problem first,
+then figure out the best way to build it.
+I use AI as a tool, not a crutch.
 
 ---
 
-## ⚡ My Mindset
+## What I've built
 
-* Build things that **actually work in the real world**
-* **Own the outcome**, not just the code
-* Use **AI, automation, and smart tools** to move faster
-* Always **improve systems instead of repeating work**
+**Orange** — A full delivery management system.
+POS, rider app, inventory, geo-fencing, live maps, complaints, reports.
+The whole thing works offline and syncs automatically when internet returns.
+This wasn't a tutorial project. It was a real operations problem and I solved it.
 
----
+**AI Workout Planner** — Tell it your goal, your equipment, your current shape.
+It builds your plan. No generic advice, just what fits you.
 
-## 🛠 Tech I Work With
+**Waterverse Connect** — 5,000+ downloads on the Play Store.
 
-**Mobile**
-
-* Flutter
-* Dart
-
-**Backend & Cloud**
-
-* Firebase
-* REST APIs
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-* Xcode / Android Studio
+And a few others in production.
 
 ---
 
-## 🚀 What I'm Building
+## Stack I work with
 
-* AI-powered mobile applications
-* Productivity tools
-* Scalable Flutter apps
-* Products that combine **AI + real user needs**
+Flutter · Firebase · REST APIs · AI integrations · Offline-first architecture
 
 ---
 
-⭐ I believe developers who can **think, build, and ship products** will always stand out.
+## What I can do for you
+
+- Build your mobile app from scratch
+- Take a broken or half-finished app and fix it properly  
+- Add AI features to something you already have
+- Think through your product with you before writing a single line
+
+---
+
+## Let's talk
+
+📧 your@email.com
+💼 linkedin.com/in/yourhandle
+🌍 yourportfolio.com
