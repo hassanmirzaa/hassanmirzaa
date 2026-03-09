@@ -1,68 +1,70 @@
-# Hi 👋 I'm Hassan
+<h1 align="center">Hi 👋, I'm Hassan</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Engineer | AI Enthusiast</h3>
 
-🚀 Flutter Developer | Mobile App Engineer | AI Enthusiast
-
-I’m a passionate software developer focused on building modern **mobile and web applications**. I enjoy creating scalable apps, integrating APIs, and adding **AI-powered features** to improve user experience.
+<p align="center">
+Building modern mobile apps and experimenting with AI-powered solutions.
+</p>
 
 ---
 
-## 💻 What I Do
+## 👨‍💻 About Me
 
-* 📱 Build **cross-platform mobile apps using Flutter**
-* 🔗 Integrate **REST APIs and Firebase services**
-* 🤖 Develop **AI-powered applications**
-* ☁️ Deploy apps and web projects
-* 🧠 Focus on **clean architecture and maintainable code**
+* 📱 Flutter Developer with experience building **production mobile apps**
+* 🤖 Interested in **AI-powered applications**
+* 🔥 Love building **clean, scalable and modern apps**
+* 🚀 Working with **Flutter, Firebase, APIs, and AI tools**
+* 🌱 Currently learning more about **SaaS products & AI integrations**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
+### Mobile Development
 
-* Flutter / Dart
-* JavaScript
-* Next.js
-* Python (for AI integrations)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 
-**Backend & Cloud**
+### Backend & Cloud
 
-* Firebase
-* Supabase
-* REST APIs
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 
-**Tools**
+### Tools
 
-* Git & GitHub
-* Xcode / Android Studio
-* VS Code
-* Postman
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
 ## 🚀 Projects
 
-* 📖 **Quran Audio App**
-* 🏋️ **AI Workout Planner** – Generates personalized workout plans
-* 🐦 **Bird Detection AI App** – Detects bird species using image recognition
-* 🎵 **Music Player App** with Firebase backend
-* 🛍️ **E-commerce & SaaS applications**
+* 📖 **Quran Audio Player App**
+* 🤖 **AI Workout Planner**
+* 🐦 **Bird Detection AI App**
+* 🎵 **Music Player App with Firebase**
+* 📱 Multiple production Flutter apps
 
 ---
 
-## 📈 Current Focus
+## 📊 GitHub Stats
 
-* AI-powered mobile applications
-* SaaS product development
-* Productivity tools for developers
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/yourusername
-* LinkedIn: Add your LinkedIn here
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ Always exploring new technologies and building impactful products.
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: YOUR_LINKEDIN
+* 🌍 Portfolio: YOUR_PORTFOLIO
+* 📧 Email: YOUR_EMAIL
+
+---
+
+⭐ Always building, always learning.
